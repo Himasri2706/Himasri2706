@@ -13,8 +13,8 @@
 
 - 🔭 I’m currently working on **AI-powered Web Applications** like Resume Analyzers and Medical Insight tools.
 - 🌱 I’m currently focused on expanding my skills in **Machine Learning, LLMs, and Advanced Web Dev**.
-- 💡 Check out my pinned repositories to see my work with Django, OpenCV, Mistral LLMs, and more!
-- 📫 How to reach me: **[honeyalamanchili2706@gmail.com]**
+- 💡 Check out my pinned repositories to see my work with Python, Django, Mistral LLMs, and more!
+- 📫 How to reach me: **[LinkedIn/Email Link - Update Here]**
 
 ---
 
@@ -28,12 +28,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 

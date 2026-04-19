@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on **AI-powered Web Applications** like Resume Analyzers and Medical Insight tools.
 - 🌱 I’m currently focused on expanding my skills in **Machine Learning, LLMs, and Advanced Web Dev**.
 - 💡 Check out my pinned repositories to see my work with Django, OpenCV, Mistral LLMs, and more!
-- 📫 How to reach me: **[LinkedIn/Email Link - Update Here]**
+- 📫 How to reach me: **[honeyalamanchili2706@gmail.com]**
 
 ---
 
